@@ -164,3 +164,4 @@ cython_debug/
 /container-volumes/mysql/var-lib-mysql
 /container-volumes/mariadb/var-lib-mysql
 /container-volumes/postgresql/var-lib-postgresql-data
+junk.md
